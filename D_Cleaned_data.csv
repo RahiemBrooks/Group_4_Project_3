@@ -1,0 +1,273 @@
+﻿,NAICS_TITLE,OCC_TITLE,O_GROUP,H_MEAN,A_MEAN
+0,Cross-industry,Data Scientists,broad,55.4,115240
+2,"Cross-industry, private ownership only",Data Scientists,broad,56.06,116600
+4,"Mining, Quarrying, and Oil and Gas Extraction",Data Scientists,broad,56.12,116740
+6,Utilities,Data Scientists,broad,49.33,102610
+8,Construction,Data Scientists,broad,41.01,85290
+10,Wholesale Trade,Data Scientists,broad,53.55,111380
+12,Information,Data Scientists,broad,0,0
+14,Finance and Insurance,Data Scientists,broad,56.6,117720
+16,Real Estate and Rental and Leasing,Data Scientists,broad,47.79,99410
+18,"Professional, Scientific, and Technical Services",Data Scientists,broad,54.54,113450
+20,Management of Companies and Enterprises,Data Scientists,broad,54.77,113920
+22,Administrative and Support and Waste Management and Remediation Services,Data Scientists,broad,46.86,97460
+24,Educational Services,Data Scientists,broad,40.42,84070
+26,Health Care and Social Assistance,Data Scientists,broad,42.97,89380
+28,"Arts, Entertainment, and Recreation",Data Scientists,broad,40.95,85180
+30,Accommodation and Food Services,Data Scientists,broad,40.76,84770
+32,Other Services (except Public Administration),Data Scientists,broad,42.81,89050
+34,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Data Scientists,broad,39.83,82840
+36,Oil and Gas Extraction,Data Scientists,broad,62.96,130950
+38,Oil and Gas Extraction,Data Scientists,broad,62.96,130950
+40,Support Activities for Mining,Data Scientists,broad,52.32,108830
+42,Support Activities for Mining,Data Scientists,broad,52.32,108830
+44,Utilities,Data Scientists,broad,49.33,102610
+46,"Electric Power Generation, Transmission and Distribution",Data Scientists,broad,45.06,93720
+48,Fossil Fuel Electric Power Generation,Data Scientists,broad,55.2,114820
+50,Natural Gas Distribution,Data Scientists,broad,62.52,130040
+52,Construction of Buildings,Data Scientists,broad,41.86,87070
+54,Heavy and Civil Engineering Construction,Data Scientists,broad,33.47,69620
+56,Utility System Construction,Data Scientists,broad,34.37,71500
+58,Power and Communication Line and Related Structures Construction,Data Scientists,broad,35.5,73850
+60,Specialty Trade Contractors,Data Scientists,broad,45.58,94800
+62,Building Equipment Contractors,Data Scientists,broad,47.94,99720
+64,Electrical Contractors and Other Wiring Installation Contractors,Data Scientists,broad,43.26,89970
+66,Other Building Equipment Contractors,Data Scientists,broad,50.81,105690
+68,Food Manufacturing,Data Scientists,broad,40.36,83950
+70,Animal Slaughtering and Processing,Data Scientists,broad,37.94,78920
+72,Bakeries and Tortilla Manufacturing,Data Scientists,broad,26.02,54120
+74,Other Food Manufacturing,Data Scientists,broad,38.66,80410
+76,Beverage and Tobacco Product Manufacturing,Data Scientists,broad,45.57,94780
+78,Beverage Manufacturing,Data Scientists,broad,45.24,94100
+80,Paper Manufacturing,Data Scientists,broad,42.23,87840
+82,Printing and Related Support Activities,Data Scientists,broad,0,0
+84,Printing and Related Support Activities,Data Scientists,broad,0,0
+86,Chemical Manufacturing,Data Scientists,broad,60.01,124820
+88,Pharmaceutical and Medicine Manufacturing,Data Scientists,broad,62,128960
+90,Plastics and Rubber Products Manufacturing,Data Scientists,broad,34.35,71450
+92,Plastics Product Manufacturing,Data Scientists,broad,34.1,70930
+94,Nonmetallic Mineral Product Manufacturing,Data Scientists,broad,45.74,95150
+96,Nonmetallic Mineral Product Manufacturing,Data Scientists,broad,45.74,95150
+98,Primary Metal Manufacturing,Data Scientists,broad,45.11,93830
+100,Fabricated Metal Product Manufacturing,Data Scientists,broad,40.96,85200
+102,Machinery Manufacturing,Data Scientists,broad,46.29,96290
+104,Commercial and Service Industry Machinery Manufacturing,Data Scientists,broad,52.35,108880
+106,Metalworking Machinery Manufacturing,Data Scientists,broad,39.73,82640
+108,"Engine, Turbine, and Power Transmission Equipment Manufacturing",Data Scientists,broad,50.02,104050
+110,Computer and Electronic Product Manufacturing,Data Scientists,broad,66.55,138430
+112,Computer and Peripheral Equipment Manufacturing,Data Scientists,broad,76.13,158350
+114,Communications Equipment Manufacturing,Data Scientists,broad,48.54,100950
+116,Semiconductor and Other Electronic Component Manufacturing,Data Scientists,broad,71.28,148270
+118,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",Data Scientists,broad,58.26,121190
+120,Manufacturing and Reproducing Magnetic and Optical Media,Data Scientists,broad,0,0
+122,"Electrical Equipment, Appliance, and Component Manufacturing",Data Scientists,broad,41.4,86110
+124,Household Appliance Manufacturing,Data Scientists,broad,38.63,80350
+126,Other Electrical Equipment and Component Manufacturing,Data Scientists,broad,43.48,90430
+128,Transportation Equipment Manufacturing,Data Scientists,broad,53.33,110930
+130,Motor Vehicle Manufacturing,Data Scientists,broad,51.45,107020
+132,Motor Vehicle Parts Manufacturing,Data Scientists,broad,44.96,93510
+134,Aerospace Product and Parts Manufacturing,Data Scientists,broad,55.47,115380
+136,Furniture and Related Product Manufacturing,Data Scientists,broad,38.63,80350
+138,Miscellaneous Manufacturing,Data Scientists,broad,52.26,108690
+140,Medical Equipment and Supplies Manufacturing,Data Scientists,broad,54.69,113740
+142,Other Miscellaneous Manufacturing,Data Scientists,broad,44.03,91570
+144,"Merchant Wholesalers, Durable Goods",Data Scientists,broad,54.23,112790
+146,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,Data Scientists,broad,53.3,110860
+148,Professional and Commercial Equipment and Supplies Merchant Wholesalers,Data Scientists,broad,58.72,122130
+150,"Machinery, Equipment, and Supplies Merchant Wholesalers",Data Scientists,broad,42.35,88090
+152,Farm and Garden Machinery and Equipment Merchant Wholesalers,Data Scientists,broad,49.85,103690
+154,"Merchant Wholesalers, Nondurable Goods",Data Scientists,broad,52.43,109060
+156,"Apparel, Piece Goods, and Notions Merchant Wholesalers",Data Scientists,broad,52.64,109500
+158,Wholesale Trade Agents and Brokers,Data Scientists,broad,52.49,109180
+160,Wholesale Trade Agents and Brokers,Data Scientists,broad,52.49,109180
+162,Motor Vehicle and Parts Dealers,Data Scientists,broad,58.43,121540
+164,"Automotive Parts, Accessories, and Tire Retailers",Data Scientists,broad,68.89,143290
+166,Building Material and Garden Equipment and Supplies Dealers,Data Scientists,broad,52.32,108830
+168,Building Material and Supplies Dealers,Data Scientists,broad,52.51,109220
+170,Food and Beverage Retailers,Data Scientists,broad,32.19,66950
+172,"Furniture, Home Furnishings, Electronics, and Appliance Retailers",Data Scientists,broad,50.45,104930
+174,Furniture and Home Furnishings Retailers,Data Scientists,broad,36.68,76290
+176,General Merchandise Retailers,Data Scientists,broad,63.53,132130
+178,General Merchandise Retailers,Data Scientists,broad,63.53,132130
+180,Health and Personal Care Retailers,Data Scientists,broad,48.47,100810
+182,Health and Personal Care Retailers,Data Scientists,broad,48.47,100810
+184,Pharmacies and Drug Retailers,Data Scientists,broad,43.97,91460
+186,"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",Data Scientists,broad,77.61,161420
+188,Clothing and Clothing Accessories Retailers,Data Scientists,broad,78.86,164030
+190,"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",Data Scientists,broad,51.95,108060
+192,"Sporting Goods, Hobby, and Musical Instrument Retailers",Data Scientists,broad,39.04,81200
+194,Sporting Goods Retailers,Data Scientists,broad,41.18,85660
+196,Other Miscellaneous Retailers,Data Scientists,broad,52.3,108780
+198,Air Transportation,Data Scientists,broad,47.49,98780
+200,Scheduled Air Transportation,Data Scientists,broad,50.64,105330
+202,Water Transportation,Data Scientists,broad,62.16,129300
+204,"Deep Sea, Coastal, and Great Lakes Water Transportation",Data Scientists,broad,62.16,129300
+206,Truck Transportation,Data Scientists,broad,37.87,78770
+208,Truck Transportation,Data Scientists,broad,37.87,78770
+210,Pipeline Transportation,Data Scientists,broad,41.08,85440
+212,Pipeline Transportation of Natural Gas,Data Scientists,broad,41.08,85440
+214,Support Activities for Transportation,Data Scientists,broad,48.83,101560
+216,Support Activities for Air Transportation,Data Scientists,broad,44.07,91670
+218,Freight Transportation Arrangement,Data Scientists,broad,52.27,108720
+220,Couriers and Messengers,Data Scientists,broad,78.01,162270
+222,Couriers and Express Delivery Services,Data Scientists,broad,63.4,131870
+224,Local Messengers and Local Delivery,Data Scientists,broad,0,0
+226,Warehousing and Storage,Data Scientists,broad,34.3,71340
+228,Warehousing and Storage,Data Scientists,broad,34.3,71340
+230,Motion Picture and Sound Recording Industries,Data Scientists,broad,55.06,114520
+232,Motion Picture and Video Industries,Data Scientists,broad,56.32,117150
+234,Sound Recording Industries,Data Scientists,broad,42.55,88510
+236,Publishing Industries,Data Scientists,broad,61.96,128870
+238,"Newspaper, Periodical, Book, and Directory Publishers",Data Scientists,broad,52.78,109780
+240,Newspaper Publishers,Data Scientists,broad,0,0
+242,Software Publishers,Data Scientists,broad,63.39,131840
+244,Broadcasting and Content Providers,Data Scientists,broad,62.81,130640
+246,Radio and Television Broadcasting Stations,Data Scientists,broad,46.26,96230
+248,Television Broadcasting Stations,Data Scientists,broad,49.39,102730
+250,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",Data Scientists,broad,63.82,132740
+252,Telecommunications,Data Scientists,broad,57.29,119170
+254,Telecommunications,Data Scientists,broad,57.29,119170
+256,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",Data Scientists,broad,57.74,120100
+258,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",Data Scientists,broad,57.74,120100
+260,"Web Search Portals, Libraries, Archives, and Other Information Services",Data Scientists,broad,0,0
+262,"Web Search Portals, Libraries, Archives, and Other Information Services",Data Scientists,broad,0,0
+264,Monetary Authorities-Central Bank,Data Scientists,broad,53.7,111690
+266,Monetary Authorities-Central Bank,Data Scientists,broad,53.7,111690
+268,Credit Intermediation and Related Activities,Data Scientists,broad,58.25,121160
+270,Nondepository Credit Intermediation,Data Scientists,broad,59.05,122830
+272,Other Nondepository Credit Intermediation,Data Scientists,broad,57.12,118820
+274,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",Data Scientists,broad,64.29,133730
+276,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",Data Scientists,broad,64.29,133730
+278,Insurance Carriers and Related Activities,Data Scientists,broad,52.83,109880
+280,Insurance Carriers,Data Scientists,broad,53.43,111130
+282,Direct Health and Medical Insurance Carriers,Data Scientists,broad,45.73,95110
+284,"Direct Insurance (except Life, Health, and Medical) Carriers",Data Scientists,broad,55.71,115890
+286,"Agencies, Brokerages, and Other Insurance Related Activities",Data Scientists,broad,51.54,107200
+288,Insurance Agencies and Brokerages,Data Scientists,broad,57.04,118650
+290,Other Insurance Related Activities,Data Scientists,broad,47.12,98020
+292,"Funds, Trusts, and Other Financial Vehicles",Data Scientists,broad,41.19,85680
+294,Real Estate,Data Scientists,broad,47.76,99340
+296,Real Estate,Data Scientists,broad,47.76,99340
+298,Rental and Leasing Services,Data Scientists,broad,50.04,104070
+300,"Professional, Scientific, and Technical Services",Data Scientists,broad,54.54,113450
+302,Legal Services,Data Scientists,broad,44.12,91770
+304,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",Data Scientists,broad,60.93,126730
+306,"Architectural, Engineering, and Related Services",Data Scientists,broad,44.7,92970
+308,Engineering Services,Data Scientists,broad,45.76,95190
+310,Testing Laboratories and Services,Data Scientists,broad,34.07,70870
+312,Specialized Design Services,Data Scientists,broad,49.02,101970
+314,Computer Systems Design and Related Services,Data Scientists,broad,56.63,117800
+316,"Management, Scientific, and Technical Consulting Services",Data Scientists,broad,53.1,110450
+318,Scientific Research and Development Services,Data Scientists,broad,60.39,125620
+320,"Research and Development in the Physical, Engineering, and Life Sciences",Data Scientists,broad,60.71,126280
+322,Research and Development in the Social Sciences and Humanities,Data Scientists,broad,54.78,113940
+324,"Advertising, Public Relations, and Related Services",Data Scientists,broad,48.27,100390
+326,"Other Professional, Scientific, and Technical Services",Data Scientists,broad,46.15,95980
+328,Management of Companies and Enterprises,Data Scientists,broad,54.77,113920
+330,Management of Companies and Enterprises,Data Scientists,broad,54.77,113920
+332,Administrative and Support Services,Data Scientists,broad,46.83,97410
+334,Office Administrative Services,Data Scientists,broad,46.55,96820
+336,Facilities Support Services,Data Scientists,broad,41.06,85400
+338,Employment Services,Data Scientists,broad,48.02,99870
+340,Temporary Help Services,Data Scientists,broad,44.86,93320
+342,Business Support Services,Data Scientists,broad,40.66,84560
+344,Travel Arrangement and Reservation Services,Data Scientists,broad,48.98,101880
+346,Investigation and Security Services,Data Scientists,broad,47.77,99370
+348,"Investigation, Guard, and Armored Car Services",Data Scientists,broad,37.64,78290
+350,Security Systems Services,Data Scientists,broad,59.57,123900
+352,Other Support Services,Data Scientists,broad,43.04,89510
+354,Educational Services,Data Scientists,broad,40.42,84070
+356,Educational Services,Data Scientists,broad,37,76960
+357,Educational Services,Data Scientists,broad,47.05,97860
+358,Educational Services,Data Scientists,broad,41.48,86280
+362,Elementary and Secondary Schools,Data Scientists,broad,48.19,100240
+364,Elementary and Secondary Schools,Data Scientists,broad,50.73,105510
+365,Elementary and Secondary Schools,Data Scientists,broad,33.18,69010
+368,Junior Colleges,Data Scientists,broad,35.45,73740
+370,Junior Colleges,Data Scientists,broad,38.55,80180
+371,Junior Colleges,Data Scientists,broad,33.96,70640
+374,"Colleges, Universities, and Professional Schools",Data Scientists,broad,37.77,78550
+376,"Colleges, Universities, and Professional Schools",Data Scientists,broad,36.99,76930
+377,"Colleges, Universities, and Professional Schools",Data Scientists,broad,39.21,81550
+380,Business Schools and Computer and Management Training,Data Scientists,broad,53.79,111880
+382,Business Schools and Computer and Management Training,Data Scientists,broad,55.42,115280
+384,Technical and Trade Schools,Data Scientists,broad,33.26,69170
+386,Technical and Trade Schools,Data Scientists,broad,34.23,71200
+388,Other Schools and Instruction,Data Scientists,broad,41.92,87200
+390,Other Schools and Instruction,Data Scientists,broad,41.41,86130
+392,Educational Support Services,Data Scientists,broad,51.21,106520
+394,Educational Support Services,Data Scientists,broad,51.27,106640
+396,Ambulatory Health Care Services,Data Scientists,broad,44.1,91720
+398,Offices of Physicians,Data Scientists,broad,37.34,77670
+400,Offices of Other Health Practitioners,Data Scientists,broad,46.26,96230
+402,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",Data Scientists,broad,54.19,112720
+404,Outpatient Care Centers,Data Scientists,broad,43.3,90050
+406,Outpatient Mental Health and Substance Abuse Centers,Data Scientists,broad,35.15,73110
+408,Medical and Diagnostic Laboratories,Data Scientists,broad,56.63,117790
+410,Home Health Care Services,Data Scientists,broad,45.77,95210
+412,Other Ambulatory Health Care Services,Data Scientists,broad,48.72,101330
+414,All Other Ambulatory Health Care Services,Data Scientists,broad,48.7,101290
+416,Hospitals,Data Scientists,broad,44.05,91630
+418,Hospitals,Data Scientists,broad,50.12,104250
+419,Hospitals,Data Scientists,broad,41.23,85750
+420,Hospitals,Data Scientists,broad,43.64,90760
+424,General Medical and Surgical Hospitals,Data Scientists,broad,43.75,91000
+426,General Medical and Surgical Hospitals,Data Scientists,broad,50.58,105210
+427,General Medical and Surgical Hospitals,Data Scientists,broad,41.23,85750
+428,General Medical and Surgical Hospitals,Data Scientists,broad,43.23,89920
+432,Specialty (except Psychiatric and Substance Abuse) Hospitals,Data Scientists,broad,52.9,110040
+434,Specialty (except Psychiatric and Substance Abuse) Hospitals,Data Scientists,broad,53.86,112040
+436,Nursing and Residential Care Facilities,Data Scientists,broad,34.75,72290
+438,Nursing Care Facilities (Skilled Nursing Facilities),Data Scientists,broad,41.04,85370
+440,Other Residential Care Facilities,Data Scientists,broad,29.82,62030
+442,Social Assistance,Data Scientists,broad,35.36,73560
+444,Individual and Family Services,Data Scientists,broad,35.97,74830
+446,Services for the Elderly and Persons with Disabilities,Data Scientists,broad,34.54,71850
+448,"Community Food and Housing, and Emergency and Other Relief Services",Data Scientists,broad,37.27,77520
+450,Vocational Rehabilitation Services,Data Scientists,broad,30.9,64270
+452,"Performing Arts, Spectator Sports, and Related Industries",Data Scientists,broad,41.89,87120
+454,Spectator Sports,Data Scientists,broad,43.15,89760
+456,"Promoters of Performing Arts, Sports, and Similar Events",Data Scientists,broad,37.51,78010
+458,"Museums, Historical Sites, and Similar Institutions",Data Scientists,broad,32.87,68370
+460,"Museums, Historical Sites, and Similar Institutions",Data Scientists,broad,32.87,68370
+462,"Amusement, Gambling, and Recreation Industries",Data Scientists,broad,46.86,97460
+464,Gambling Industries,Data Scientists,broad,47.14,98050
+466,Accommodation,Data Scientists,broad,39.07,81260
+468,Traveler Accommodation,Data Scientists,broad,39.07,81260
+470,Repair and Maintenance,Data Scientists,broad,46.82,97380
+472,Electronic and Precision Equipment Repair and Maintenance,Data Scientists,broad,42.96,89360
+474,Personal and Laundry Services,Data Scientists,broad,60.28,125370
+476,Personal Care Services,Data Scientists,broad,64.12,133370
+478,Other Personal Services,Data Scientists,broad,57.67,119950
+480,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",Data Scientists,broad,41.65,86630
+482,Religious Organizations,Data Scientists,broad,36.13,75150
+484,Grantmaking and Giving Services,Data Scientists,broad,44.89,93360
+486,Social Advocacy Organizations,Data Scientists,broad,39.38,81910
+488,Civic and Social Organizations,Data Scientists,broad,31.43,65360
+490,"Business, Professional, Labor, Political, and Similar Organizations",Data Scientists,broad,45.18,93970
+492,Labor Unions and Similar Labor Organizations,Data Scientists,broad,48.04,99930
+494,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Data Scientists,broad,39.83,82840
+496,"Federal, state, and local government, including government-owned schools and hospitals, and the U.S. Postal Service",Data Scientists,broad,40.38,83980
+498,Federal Executive Branch (OES Designation),Data Scientists,broad,56.66,117860
+500,"Federal government, including the US Postal Service",Data Scientists,broad,56.66,117860
+502,"State Government, excluding schools and hospitals (OES Designation)",Data Scientists,broad,40.08,83360
+504,"State government, including schools and hospitals",Data Scientists,broad,39.26,81660
+506,"Local Government, excluding schools and hospitals (OES Designation)",Data Scientists,broad,38.71,80520
+508,"Local government, including schools and hospitals",Data Scientists,broad,42.37,88140
+510,Manufacturing,Data Scientists,broad,56.3,117110
+512,"Chemical Manufacturing (3251, 3252, 3253, and 3259 only)",Data Scientists,broad,50.43,104890
+514,Chemical Manufacturing (3255 and 3256 only),Data Scientists,broad,54.99,114380
+516,"Fabricated Metal Product Manufacturing (3321, 3322, 3325, 3326, and 3329 only)",Data Scientists,broad,40.78,84820
+518,Fabricated Metal Product Manufacturing (3323 and 3324 only),Data Scientists,broad,39.41,81980
+520,"Machinery Manufacturing (3331, 3332, 3334, and 3339 only)",Data Scientists,broad,45.23,94070
+522,Furniture and Related Product Manufacturing (3371 and 3372 only),Data Scientists,broad,37.74,78490
+524,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)",Data Scientists,broad,45.46,94550
+526,"Merchant Wholesalers, Nondurable Goods (4244 and 4248 only)",Data Scientists,broad,44.45,92450
+528,"Merchant Wholesalers, Nondurable Goods (4242 and 4246 only)",Data Scientists,broad,57.75,120110
+530,"Merchant Wholesalers, Nondurable Goods (4241, 4247, and 4249 only)",Data Scientists,broad,45.18,93970
+532,Retail Trade,Data Scientists,broad,58.55,121780
+534,Food and Beverage Retailers (4451 and 4452 only),Data Scientists,broad,32.19,66950
+536,Miscellaneous Store Retailers (4594 and 4595 only),Data Scientists,broad,55.79,116030
+538,Transportation and Warehousing,Data Scientists,broad,45.95,95570
+540,Credit Intermediation and Related Activities (5221 And 5223 only),Data Scientists,broad,57.94,120520
+542,"Rental and Leasing Services (5322, 5323, and 5324 only)",Data Scientists,broad,49.73,103450
