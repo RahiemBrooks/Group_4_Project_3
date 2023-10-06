@@ -3,7 +3,7 @@ Team Members: Rahiem Brooks, Karen Leswing, Jasmine King, Alexander Relvinhas
 
 Our team, Group 4, successfully met all the requirements for Project 3. Our visualization incorporates a Python Flask-powered API, HTML/CSS, JavaScript, and SQLite as the database. To enhance our project, we incorporated web scraping and utilized the Leaflet library. Additionally, we stepped beyond the materials covered in class by using React to create a database. We merged and cleaned two Excel spreadsheets using pandas and exported a CSV file, which we utilized for our visualizations. Our datasets were collected from the U.S. Bureau of Labor Statistics, ensuring that our project is backed by reliable and authoritative data sources.
 
-For a real-time view of metrics or to interact with our interface, please visit our dashboard: [Visit Dashboard]((https://project-3-five-tau.vercel.app/))
+For a real-time view of metrics or to interact with our interface, please visit our dashboard: [Visit Dashboard](https://project-3-five-tau.vercel.app/)
 
 Using comprehensive datasets from the U.S. Bureau of Labor Statistics and web scraping of job platforms such as Indeed and Simply, our research project has successfully analyzed and presented crucial insights regarding data scientist employment and salaries in the United States. The findings are presented in a professional, technical, and scientific manner through easily understandable charts and visualizations.
 
