@@ -1,4 +1,6 @@
 # Group_4_Project_3
+Team Members: Rahiem Brooks, Karen Leswing, Jasmine King, Alexander Relvinhas
+
 Our team, Group 4, successfully met all the requirements for Project 3. Our visualization incorporates a Python Flask-powered API, HTML/CSS, JavaScript, and SQLite as the database. To enhance our project, we incorporated web scraping and utilized the Leaflet library. Additionally, we stepped beyond the materials covered in class by using React to create a database. We merged and cleaned two Excel spreadsheets using pandas and exported a CSV file, which we utilized for our visualizations. Our datasets were collected from the U.S. Bureau of Labor Statistics, ensuring that our project is backed by reliable and authoritative data sources.
 
 For a real-time view of metrics or to interact with our interface, please visit our dashboard: [Visit Dashboard](http://137.59.224.25:8081)
