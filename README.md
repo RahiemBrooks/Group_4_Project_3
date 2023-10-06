@@ -5,11 +5,13 @@ For a real-time view of metrics or to interact with our interface, please visit 
 
 Using comprehensive datasets from the U.S. Bureau of Labor Statistics and web scraping of job platforms such as Indeed and Simply, our research project has successfully analyzed and presented crucial insights regarding data scientist employment and salaries in the United States. The findings are presented in a professional, technical, and scientific manner through easily understandable charts and visualizations.
 
-The first dataset focuses on the total employment of data scientists by state, with figures rounded to the nearest 10, excluding self-employed individuals. The corresponding chart, represented by shades of green, illustrates the distribution of available data scientist jobs across various states. It is evident that California and New York have the highest number of job opportunities, followed by Florida and Texas. Notably, Arkansas lacks statistical data in this regard.
+Ladies and gentlemen, imagine a map of the United States before you, a vibrant and dynamic representation of data scientist employment. As we delve into this dataset, we uncover a fascinating story of opportunity and growth.
+
+In shades of green, this chart reveals the total employment of data scientists by state. California and New York, like shining beacons, boast the highest number of job opportunities in this field. From the bustling tech hub of Silicon Valley to the thriving metropolis of New York City, these states are at the forefront of the data revolution. But let's not forget the rising stars - Florida and Texas - with their own vibrant data science communities. However, there's one state that remains a mystery, Arkansas, a hidden gem waiting to be explored.
 
 ![JSON MAP](https://github.com/RahiemBrooks/Group_4_Project_3/assets/135518113/5450c770-c757-49e2-92d8-9a8cb4d6264e)
 
-To further emphasize the variance in employment levels, a scatterplot showcases the gaps between states' data scientist employment. The bright yellow dot representing California, the home of Silicon Valley, stands out as a leader in generating data scientist jobs. New York and Texas also emerge as outliers in terms of employment opportunities. Several other states grouped together, marked by purple dots, reflect a strong correlation in their data scientist employment figures.
+As we shift our focus, a captivating scatterplot emerges, showcasing the gaps between employment levels. A bright yellow dot, representing California, stands tall as a leader in producing data scientist jobs. New York and Texas, outliers in their own right, also shine brightly. But it's the purple dots, clustered together, that pique our curiosity. They signify states with a strong connection, their collective efforts shaping the landscape of data science.
 
 ![CROSS_INDUSTRY EMPLOYMENT BY STATE](https://github.com/RahiemBrooks/Group_4_Project_3/assets/135518113/8101ba76-6f1b-4f6d-9646-706d3159b5e2)
 
