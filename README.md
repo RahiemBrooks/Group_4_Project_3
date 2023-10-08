@@ -45,6 +45,9 @@ Lastly, our project presents mean salaries for data scientist jobs by state. The
 
 ![SALARY PERCENTILES](https://github.com/RahiemBrooks/Group_4_Project_3/assets/135518113/cf6cb8bd-10b9-4813-b0cb-bba4837c3856)
 
+<img width="752" alt="Screenshot 2023-10-08 at 12 38 52 PM" src="https://github.com/RahiemBrooks/Group_4_Project_3/assets/135518113/2ae752d9-93c1-4f6f-9d0f-60593e4b625a">
+
+
 In conclusion, this captivating journey through data scientist employment and salaries presents a world brimming with possibilities. From the thriving tech landscapes of California and New York to the hidden gems waiting to be discovered, the data science revolution knows no bounds. So let us embrace the power of data, as we unlock its potential to transform industries, shape economies, and make our world a better place.
 
 Thank you.
