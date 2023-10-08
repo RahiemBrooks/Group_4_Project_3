@@ -43,8 +43,6 @@ But what about the states themselves? The salary ranges for data scientists vary
 
 Lastly, our project presents mean salaries for data scientist jobs by state. The 25th and 75th percentiles provide insights into the salary range earned by data scientists in each state. The 25th percentile represents the lower end of the salary range, indicating that 25% of data scientists earn below this value, while the 75th percentile represents the higher end, with only 25% of data scientists earning above this value. Analyzing the spread between these two percentiles allows for an understanding of the salary distribution within a state. A wider spread suggests greater variability in salaries, indicating significant differences in earning potential among data scientists. Conversely, a narrower spread suggests a more consistent salary range within the state. It is crucial to consider factors such as experience, education, industry, company size, cost of living, and demand when interpreting these salary estimates.
 
-![SALARY PERCENTILES](https://github.com/RahiemBrooks/Group_4_Project_3/assets/135518113/cf6cb8bd-10b9-4813-b0cb-bba4837c3856)
-
 <img width="752" alt="Screenshot 2023-10-08 at 12 38 52 PM" src="https://github.com/RahiemBrooks/Group_4_Project_3/assets/135518113/2ae752d9-93c1-4f6f-9d0f-60593e4b625a">
 
 
